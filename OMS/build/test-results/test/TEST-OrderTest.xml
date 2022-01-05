@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OrderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-05T20:29:07" hostname="DESKTOP-04PQ7N8" time="0.004">
+  <properties/>
+  <testcase name="-1 red 1x2 piece, -50 2x2 green pieces" classname="OrderTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
